@@ -67,6 +67,7 @@ header{
 
 nav .active{
     background-color: #CDC6AE;
+    border: 2px solid;
     text-decoration: underline;
 }
 
